@@ -62,7 +62,7 @@ Pour émettre des messages à partir d’une balise BLE, on peut utiliser des bi
 
 ![image](https://github.com/user-attachments/assets/49278934-c990-4a54-87c6-ae8eba8d73cf)
 
-J’ai utilisé plusieurs scripts pour tenter de créer une balise personnalisée et la seule qui a fonctionné sur mon poste est le script ble_beacon.py. Ce script permet de t transformer un PC Linux en balise Bluetooth Low Energy (BLE) en diffusant un nom et un service via BlueZ.
+J’ai utilisé plusieurs scripts pour tenter de créer une balise personnalisée et la seule qui a fonctionné sur mon poste, le script ble_beacon.py. Ce script permet de t transformer un PC Linux en balise Bluetooth Low Energy (BLE) en diffusant un nom et un service via BlueZ.
 
 ![image](https://github.com/user-attachments/assets/ba788656-447c-4fc9-beb5-fd7491f29b9e)
 
